@@ -114,4 +114,13 @@ ALL\Fig_NOK_15.jpg  ok 49.37 nok 1.012  - nok
  ALL\Fig_OK_12.jpg  ok 49.69  ok 1.003 ok  ok
  ALL\Fig_OK_13.jpg  ok 49.66  ok 1.006 ok  ok
  ALL\Fig_OK_14.jpg  ok 49.58  ok 1.005 ok  ok
- ALL\Fig_OK_15.jpg  ok 49.81  ok 1.001 ok  ok
+ ALL\Fig_OK_15.jpg  ok 49.81  ok 1.001 ok  okNOK_borda\Fig_NOK_06.jpg  ok  49.66  ok  1.007 ok  ok
+NOK_borda\Fig_NOK_07.jpg nok      -   -      -  -   -
+NOK_borda\Fig_NOK_08.jpg nok      -   -      -  -   -
+NOK_borda\Fig_NOK_09.jpg  ok  48.47 nok      -  - nok
+NOK_borda\Fig_NOK_10.jpg  ok  49.34 nok      -  - nok
+NOK_borda\Fig_NOK_11.jpg nok      -   -      -  -   -
+NOK_borda\Fig_NOK_12.jpg nok      -   -      -  -   -
+NOK_borda\Fig_NOK_13.jpg nok      -   -      -  -   -
+NOK_borda\Fig_NOK_14.jpg  ok  49.47 nok      -  - nok
+NOK_borda\Fig_NOK_15.jpg  ok  49.37 nok      -  - nok
