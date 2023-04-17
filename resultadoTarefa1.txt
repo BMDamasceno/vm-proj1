@@ -1,0 +1,30 @@
+ALL\Fig_NOK_01.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_02.jpg  ok   48.1 nok      -  - nok
+ALL\Fig_NOK_03.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_04.jpg  ok  45.53 nok      -  - nok
+ALL\Fig_NOK_05.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_06.jpg  ok  49.66  ok  1.007 ok  ok
+ALL\Fig_NOK_07.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_08.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_09.jpg  ok  48.47 nok      -  - nok
+ALL\Fig_NOK_10.jpg  ok  49.34 nok      -  - nok
+ALL\Fig_NOK_11.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_12.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_13.jpg nok      -   -      -  -   -
+ALL\Fig_NOK_14.jpg  ok  49.47 nok      -  - nok
+ALL\Fig_NOK_15.jpg  ok  49.37 nok      -  - nok
+ ALL\Fig_OK_01.jpg  ok  49.75  ok  1.004 ok  ok
+ ALL\Fig_OK_02.jpg  ok  49.66  ok  1.007 ok  ok
+ ALL\Fig_OK_03.jpg  ok  49.74  ok  1.009 ok  ok
+ ALL\Fig_OK_04.jpg  ok  49.72  ok  1.006 ok  ok
+ ALL\Fig_OK_05.jpg  ok  49.79  ok  1.009 ok  ok
+ ALL\Fig_OK_06.jpg  ok  49.64  ok  1.004 ok  ok
+ ALL\Fig_OK_07.jpg  ok  49.54  ok  1.002 ok  ok
+ ALL\Fig_OK_08.jpg  ok  49.64  ok  1.007 ok  ok
+ ALL\Fig_OK_09.jpg  ok  49.59  ok  1.007 ok  ok
+ ALL\Fig_OK_10.jpg  ok  49.94  ok  1.005 ok  ok
+ ALL\Fig_OK_11.jpg  ok  49.81  ok  1.006 ok  ok
+ ALL\Fig_OK_12.jpg  ok  49.69  ok  1.003 ok  ok
+ ALL\Fig_OK_13.jpg  ok  49.66  ok  1.006 ok  ok
+ ALL\Fig_OK_14.jpg  ok  49.58  ok  1.005 ok  ok
+ ALL\Fig_OK_15.jpg  ok  49.81  ok  1.001 ok  ok
