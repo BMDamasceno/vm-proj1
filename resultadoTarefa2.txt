@@ -1,0 +1,72 @@
+ ok  49.58  ok  1.007 ok  ok
+nok      -   -      -  -   -
+ ok  49.54  ok  1.007 ok  ok
+ ok  48.61 nok      -  - nok
+ ok  49.28 nok      -  - nok
+ ok  48.66 nok      -  - nok
+ ok  49.71  ok  1.006 ok  ok
+ ok  48.03 nok      -  - nok
+nok      -   -      -  -   -
+ ok  49.54  ok  1.005 ok  ok
+ ok  49.46 nok      -  - nok
+ ok  49.55  ok  1.003 ok  ok
+nok      -   -      -  -   -
+ ok  49.32 nok      -  - nok
+ ok  49.13 nok      -  - nok
+nok      -   -      -  -   -
+ ok  45.45 nok      -  - nok
+ ok  49.63  ok  1.005 ok  ok
+nok      -   -      -  -   -
+ ok  49.47 nok      -  - nok
+nok      -   -      -  -   -
+ ok   49.6  ok  1.004 ok  ok
+ ok  49.44 nok      -  - nok
+nok      -   -      -  -   - 
+ ok  49.58  ok  1.007 ok  ok
+nok      -   -      -  -   -
+ ok  49.54  ok  1.007 ok  ok
+ ok  48.61 nok      -  - nok
+ ok  49.28 nok      -  - nok
+ ok  48.66 nok      -  - nok
+ ok  49.71  ok  1.006 ok  ok
+ ok  48.03 nok      -  - nok
+nok      -   -      -  -   -
+ ok  49.54  ok  1.005 ok  ok
+ ok  49.46 nok      -  - nok
+ ok  49.55  ok  1.003 ok  ok
+nok      -   -      -  -   -
+ ok  49.32 nok      -  - nok
+ ok  49.13 nok      -  - nok
+nok      -   -      -  -   -
+ ok  45.45 nok      -  - nok
+ ok  49.63  ok  1.005 ok  ok
+nok      -   -      -  -   -
+ ok  49.47 nok      -  - nok
+nok      -   -      -  -   -
+ ok   49.6  ok  1.004 ok  ok
+ ok  49.44 nok      -  - nok
+nok      -   -      -  -   - 
+ ok  49.58  ok  1.007 ok  ok
+nok      -   -      -  -   -
+ ok  49.54  ok  1.007 ok  ok
+ ok  48.61 nok      -  - nok
+ ok  49.28 nok      -  - nok
+ ok  48.66 nok      -  - nok
+ ok  49.71  ok  1.006 ok  ok
+ ok  48.03 nok      -  - nok
+nok      -   -      -  -   -
+ ok  49.54  ok  1.005 ok  ok
+ ok  49.46 nok      -  - nok
+ ok  49.55  ok  1.003 ok  ok
+nok      -   -      -  -   -
+ ok  49.32 nok      -  - nok
+ ok  49.13 nok      -  - nok
+nok      -   -      -  -   -
+ ok  45.45 nok      -  - nok
+ ok  49.63  ok  1.005 ok  ok
+nok      -   -      -  -   -
+ ok  49.47 nok      -  - nok
+nok      -   -      -  -   -
+ ok   49.6  ok  1.004 ok  ok
+ ok  49.44 nok      -  - nok
+nok      -   -      -  -   -
